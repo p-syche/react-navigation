@@ -28,7 +28,7 @@
     "koa": "^2.13.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
-    "react-native": "0.64.3",
+    "react-native": "0.71.0",
     "react-native-appearance": "~0.3.3",
     "react-native-gesture-handler": "~2.1.0",
     "react-native-pager-view": "5.4.9",
